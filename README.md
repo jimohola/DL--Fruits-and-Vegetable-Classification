@@ -1,6 +1,6 @@
 # Fruits-and-Vegetable-Classification
 
-This project involves classification of fruits and vegetables using Deep mLearning and was carried out on Kaggle Notebook.
+This project involves classification of fruits and vegetables using Deep Learning, carried out on Kaggle Notebook.
 
 ![fruit vegetable](https://images.pexels.com/photos/2101261/pexels-photo-2101261.jpeg?auto=compress&cs=tinysrgb&w=600)
 
